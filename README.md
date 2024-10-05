@@ -4,7 +4,7 @@
 <h3 align="center">students who have a high enthusiasm for learning from Indonesia</h3>
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif
 
-- 🌱 I’m currently learning **python, java**
+- 🌱 I’m currently learning **python, css, html, excel, php, laravel, javascript**
 
 - 📫 How to reach me **mwildanshol354@gmail.com**
 
